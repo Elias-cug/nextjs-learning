@@ -25,6 +25,14 @@ meta 数据
 8. global css
 结合 _app.js 使用
 
+9. Layout 组件使用
+
+10. getStaticProps & getServerSideProps
+
+11. getStaticPaths
+
+12. API routes
+
 ## 特性
 1. code spliting and prefeatching
 > Only loading the code for the page you request also means that pages become isolated. If a certain page throws an error, the rest of the application would still work.
