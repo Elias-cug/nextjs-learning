@@ -40,8 +40,15 @@ meta 数据
 > whenever Link components appear in the browser’s viewport, Next.js automatically prefetches the code for the linked page in the background. 
 
 2. image optimization and lazy loaded
+next/image
 
 3. pre-rendering
 有利于 更好的性能 和 SEO
 - static generation --> reuse
 - server-side rendering
+
+4. dynamic import
+- dynamic import for components
+next/dynamic
+
+5. optimizimg thrid-part scripts
